@@ -1,17 +1,17 @@
 {
-	"name": "eazy_node_ffmpeg",
-	"description": "Utility for managing video streams using ffmpeg",
-	"version": "0.0.1",
-	"author": {
-		"name": "Chris Wu",
-		"email": "starhao@danwi.me"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/starhao/ezay_node_ffmpeg.git"
-	},
-	"main": "./index.js",
-	"dependencies": {
-		"when" : ">= 0.0.1"
-	}
+  "name": "eazy_node_ffmpeg",
+  "description": "Utility for managing video streams using ffmpeg",
+  "version": "0.0.2",
+  "author": {
+    "name": "Chris Wu",
+    "email": "starhao@danwi.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starhao/ezay_node_ffmpeg.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "when": ">= 0.0.1"
+  }
 }
