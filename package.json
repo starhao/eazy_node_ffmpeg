@@ -1,14 +1,14 @@
 {
-	"name": "ffmpeg",
+	"name": "eazy_node_ffmpeg",
 	"description": "Utility for managing video streams using ffmpeg",
-	"version": "0.0.4",
+	"version": "0.0.1",
 	"author": {
-		"name": "Damiano Ciarla",
-		"email": "damiano.ciarl@gmail.com"
+		"name": "Chris Wu",
+		"email": "starhao@danwi.me"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/damianociarla/node-ffmpeg.git"
+		"url": "https://github.com/starhao/ezay_node_ffmpeg.git"
 	},
 	"main": "./index.js",
 	"dependencies": {
