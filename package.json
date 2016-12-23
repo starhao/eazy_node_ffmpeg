@@ -1,14 +1,14 @@
 {
   "name": "eazy_node_ffmpeg",
   "description": "Utility for managing video streams using ffmpeg",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Chris Wu",
     "email": "starhao@danwi.me"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/starhao/ezay_node_ffmpeg.git"
+    "url": "https://github.com/starhao/eazy_node_ffmpeg.git"
   },
   "main": "./index.js",
   "dependencies": {
